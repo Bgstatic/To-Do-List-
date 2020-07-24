@@ -1,2 +1,2 @@
-# To-Do-List-
+# To-Do-List-JavaScript
 A simple naive To-Do List app for become more familiar with JavaScript Document Object (DOM). will be developed ... 
